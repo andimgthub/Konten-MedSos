@@ -1,0 +1,99 @@
+<!--
+  index.html — Entry point aplikasi Konten SosMed
+  Versi: 1.0
+  Lisensi: MIT
+  Repositori: https://github.com/andimgthub/Konten-MedSos/
+
+├── index.html                    # MIT
+├── web/
+│   ├── manifest.json             # MIT
+│   ├── style.css                 # MIT
+│   ├── app.js                    # MIT
+│   └── LICENSE                   # Teks
+└── 2026-09/
+    ├── 00-DAFTARISI.md           # CC0
+    ├── 01-PANDUAN_GLOBAL.md      # CC0
+    └── ...                       # CC0
+
+-->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Konten SosMed</title>
+  <meta name="description" content="Penyederhanaan tampilan dari repositori Konten SosMed.">
+  <link rel="stylesheet" href="web/style.css">
+</head>
+<body class="view-landing">
+
+  <!-- ===== LANDING VIEW ===== -->
+  <div id="landing">
+    <header class="topbar">
+      <span class="topbar-title">Konten SosMed</span>
+      <button id="theme-toggle-landing" class="icon-btn" aria-label="Ganti tema">🌙</button>
+    </header>
+
+    <main class="landing-main">
+      <p class="repo-info">
+        Penyederhanaan tampilan dari repositori GitHub:
+        <a href="https://github.com/andimgthub/Konten-MedSos/" target="_blank" rel="noopener noreferrer">
+          github.com/andimgthub/Konten-MedSos
+        </a>
+      </p>
+
+      <div class="form">
+        <label class="sr-only" for="period-select">Periode</label>
+        <select id="period-select">
+          <option value="">— Pilih periode —</option>
+        </select>
+
+        <div id="file-select-wrap">
+          <label class="sr-only" for="file-select">File</label>
+          <select id="file-select">
+            <option value="">— Pilih file —</option>
+          </select>
+        </div>
+
+        <div class="actions">
+          <button id="btn-copy" class="btn" disabled>📋 Copy</button>
+          <button id="btn-show" class="btn primary" disabled>📖 Tampilkan</button>
+        </div>
+      </div>
+
+      <p class="cta">
+        Informasi lengkap dan tautan lainnya:
+        <a href="https://heylink.me/andimhey/" target="_blank" rel="noopener noreferrer">
+          heylink.me/andimhey
+        </a>
+      </p>
+
+      <p class="footer-license">Konten: CC0 1.0 · Kode: MIT</p>
+    </main>
+  </div>
+
+  <!-- ===== READER VIEW ===== -->
+  <div id="reader" hidden>
+    <header class="topbar">
+      <span class="topbar-title truncate" id="reader-title">—</span>
+      <button id="theme-toggle-reader" class="icon-btn" aria-label="Ganti tema">🌙</button>
+    </header>
+
+    <main class="reader-content" id="reader-content"></main>
+
+    <nav class="reader-nav">
+      <button id="btn-home" class="icon-btn" aria-label="Beranda"> 🏠 </button>
+      <button id="btn-back" class="icon-btn" aria-label="Sebelumnya"> ⬅️ </button>
+      <button id="btn-next" class="icon-btn" aria-label="Berikutnya"> ➡️ </button>
+      <button id="btn-copy-reader" class="icon-btn" aria-label="Salin"> 📋 </button>
+    </nav>
+  </div>
+
+  <!-- ===== TOAST ===== -->
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+  <script src="web/app.js"></script>
+</body>
+</html>
