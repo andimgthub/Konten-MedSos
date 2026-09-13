@@ -1,0 +1,30 @@
+{
+  "_license": "MIT",
+  "_note": "Manifest aplikasi Konten SosMed. Perbarui manual saat menambah folder/file.",
+  "periods": [
+    {
+      "id": "202609",
+      "name": "September 2026",
+      "files": [
+        { "id": "260900", "path": "2026-09/00-DAFTARISI.md",         "title": "Daftar Isi" },
+        { "id": "260901", "path": "2026-09/01-PANDUAN_GLOBAL.md",    "title": "Panduan Global" },
+        { "id": "260902", "path": "2026-09/02-PANDUAN_PENGGUNAAN.md","title": "Panduan Penggunaan" },
+        { "id": "260903", "path": "2026-09/03-K1.md",                "title": "K1 — Sebelum Aplikasi" },
+        { "id": "260904", "path": "2026-09/04-K2.md",                "title": "K2 — Ketika Teknologi Membuat Hidup Lebih Mudah" },
+        { "id": "260905", "path": "2026-09/05-K3.md",                "title": "K3 — Sehari Bersama Aplikasi" },
+        { "id": "260906", "path": "2026-09/06-K4.md",                "title": "K4 — Ketika Order Tidak Sesuai Harapan" },
+        { "id": "260907", "path": "2026-09/07-K5.md",                "title": "K5 — Jarak yang Tidak Terlihat" },
+        { "id": "260908", "path": "2026-09/08-K6.md",                "title": "K6 — Siapa yang Tahu Apa?" },
+        { "id": "260909", "path": "2026-09/09-K7.md",                "title": "K7 — Siapa yang Menanggung Risiko?" },
+        { "id": "260910", "path": "2026-09/10-K8.md",                "title": "K8 — Ketika Orang Memilih Keluar dari Sistem" },
+        { "id": "260911", "path": "2026-09/11-K9.md",                "title": "K9 — Siapa yang Sebenarnya Memilih?" },
+        { "id": "260912", "path": "2026-09/12-K10.md",               "title": "K10 — Siapa yang Menentukan Harga?" },
+        { "id": "260913", "path": "2026-09/13-K11.md",               "title": "K11 — Jejak yang Tak Terlihat" },
+        { "id": "260914", "path": "2026-09/14-K12.md",               "title": "K12 — Siapa yang Menulis Aturannya?" },
+        { "id": "260915", "path": "2026-09/15-K13.md",               "title": "K13 — Siapa yang Paling Diuntungkan?" },
+        { "id": "260916", "path": "2026-09/16-K14.md",               "title": "K14 — Manusia di Balik Angka" },
+        { "id": "260917", "path": "2026-09/17-K15.md",               "title": "K15 — Memberi Nama pada Yang Tak Terlihat" }
+      ]
+    }
+  ]
+}
