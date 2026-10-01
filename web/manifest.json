@@ -25,6 +25,28 @@
         { "id": "260916", "path": "2026-09/16-K14.md",               "title": "K14 — Manusia di Balik Angka" },
         { "id": "260917", "path": "2026-09/17-K15.md",               "title": "K15 — Memberi Nama pada Yang Tak Terlihat" }
       ]
+    },
+    {
+      "id": "202610",
+      "name": "Oktober 2026",
+      "files": [
+        { "id": "261000", "path": "2026-10/00-PANDUAN.md", "title": "Panduan Kampanye Oktober 2026" },
+        { "id": "261001", "path": "2026-10/01-K1.md", "title": "K1 — Saya Bayar Segini, Kamu Dapat Berapa?" },
+        { "id": "261002", "path": "2026-10/02-K2.md", "title": "K2 — Kenapa Order Ini Ditolak?" },
+        { "id": "261003", "path": "2026-10/03-K3.md", "title": "K3 — Kok Informasinya Beda?" },
+        { "id": "261004", "path": "2026-10/04-K4.md", "title": "K4 — Konsumen Sudah Pesan, Merchant Masih di Pasar" },
+        { "id": "261005", "path": "2026-10/05-K5.md", "title": "K5 — Kalau Satu Kurir Mengantar Banyak Pesanan" },
+        { "id": "261006", "path": "2026-10/06-K6.md", "title": "K6 — Siapa Sebenarnya yang Menanggung Jarak?" },
+        { "id": "261007", "path": "2026-10/07-K7.md", "title": "K7 — Siapa yang Menentukan Harga?" },
+        { "id": "261008", "path": "2026-10/08-K8.md", "title": "K8 — Siapa yang Menentukan Order?" },
+        { "id": "261009", "path": "2026-10/09-K9.md", "title": "K9 — Siapa yang Melihat Informasinya?" },
+        { "id": "261010", "path": "2026-10/10-K10.md", "title": "K10 — Dulu Sumber Pendapatan Hanya Satu" },
+        { "id": "261011", "path": "2026-10/11-K11.md", "title": "K11 — Sekarang Ada Dua Piring" },
+        { "id": "261012", "path": "2026-10/12-K12.md", "title": "K12 — Tunggu. Ada Meja yang Lebih Besar" },
+        { "id": "261013", "path": "2026-10/13-K13.md", "title": "K13 — Kalau Mekanismenya Dibalik?" },
+        { "id": "261014", "path": "2026-10/14-K14.md", "title": "K14 — Alternatif Juga Harus Menjawab Masalah Nyata" },
+        { "id": "261015", "path": "2026-10/15-K15.md", "title": "K15 — Menguji Konsep Platform Gotong Royong di Dunia Nyata" }
+      ]
     }
   ]
 }
