@@ -1,6 +1,6 @@
 # PANDUAN — KAMPANYE OKTOBER 2026
 
-**Versi:** 1.1  
+**Versi:** 1.2  
 **Status:** Ready for Scripting  
 **Lisensi:** CC0 1.0 Universal  
 
@@ -27,6 +27,8 @@ PGR adalah draft konsep. Bukan platform yang sudah berjalan. Bukan produk. Bukan
 PGR baru disebut secara eksplisit di K13–K15. Ia muncul sebagai salah satu gagasan alternatif yang layak diuji, bukan sebagai pusat cerita. Nama "Platform Gotong Royong" hanya muncul di pertanyaan penutup K13 dan judul K15.
 
 PGR tidak dinyatakan sebagai konsekuensi logis, dan tidak dinyatakan sebagai satu-satunya cara. Ia adalah salah satu desain yang muncul dari pertanyaan-pertanyaan kampanye. Ia harus diuji, bukan diyakini.
+
+PGR juga bukan pengganti UU. UU menetapkan perlindungan minimum. PGR mempertanyakan bentuk hubungan ekonominya. Dua hal yang berbeda. Kampanye ini tidak meminta dukungan untuk UU, dan tidak menolak UU. Kampanye ini mengajukan pertanyaan yang lebih luas: setelah perlindungan minimum ditetapkan, apakah cukup berhenti di situ?
 
 Ketika membahas mekanisme di babak-babak sebelumnya, boleh ditambahkan pertanyaan yang membuka kemungkinan alternatif. Pertanyaan ini disesuaikan dengan konteks dan divariasikan, tidak boleh seragam.
 
@@ -133,6 +135,60 @@ Setiap naskah yang memuat angka wajib memuat disclaimer di bagian awal atau akhi
 
 Angka tidak boleh disajikan seolah-olah merupakan tarif resmi, skema pembayaran universal, atau data riil dari platform tertentu.
 
+### 2.11 Hak atas Sistem yang Dapat Diketahui
+
+Kalau keputusan sistem memengaruhi penghasilan seseorang, orang tersebut berhak mengetahui, memeriksa, dan mempertanyakan bagaimana keputusan itu dibuat.
+
+Prinsip ini berlaku untuk seluruh mekanisme yang berdampak pada pekerjaan dan penghasilan:
+
+> tarif → matching → order → rute → rating → insentif → suspend → perubahan algoritma
+
+Prinsip ini tidak berarti seluruh sistem harus dibuka. Ada batas yang tetap masuk akal: keamanan, privasi, dan rahasia dagang. Yang dituntut bukan membuka semuanya, melainkan: rahasia dagang tidak boleh dijadikan alasan untuk menutup mekanisme yang menentukan hak, pekerjaan, pendapatan, dan akses seseorang dari pemeriksaan yang wajar.
+
+Prinsip ini bisa diringkas menjadi tiga hak dasar:
+
+- **Hak untuk Tahu** — Apa yang terjadi sebelum saya menerima order?
+- **Hak untuk Memeriksa** — Bagaimana sistem menentukan apa yang terjadi kepada saya?
+- **Hak untuk Menggugat** — Kalau keputusan sistem merugikan saya, bagaimana saya bisa menguji dan menggugatnya?
+
+### 2.12 Hak atas Informasi yang Setara
+
+Informasi yang dibutuhkan untuk mengambil keputusan harus tersedia bagi konsumen dan mitra secara setara, sebelum keputusan transaksi dibuat.
+
+Prinsip ini berlaku untuk:
+
+- Nilai transaksi.
+- Potongan dan biaya.
+- Hak masing-masing pihak.
+- Estimasi waktu dan jarak.
+
+Informasi tidak boleh timpang. Konsumen dan mitra sama-sama pihak dalam transaksi. Keduanya berhak mengetahui apa yang relevan untuk keputusan masing-masing, sebelum keputusan itu dibuat.
+
+### 2.13 Rambu Penyebutan Regulasi
+
+Regulasi (UU, peraturan, kebijakan) boleh disebut sebagai konteks, bukan sebagai klaim.
+
+- Jangan: "UU X Pasal Y menjamin Z."
+- Jangan: "UU baru sudah bagus, mari kita dukung."
+- Jangan: "UU baru tidak cukup, mari kita tolak."
+- Gunakan: "Setelah pengesahan UU Ketenagakerjaan baru, perlindungan orang yang bekerja lewat aplikasi menjadi tuntutan kebijakan yang semakin konkret."
+
+Regulasi disebut sekali sebagai peristiwa pemicu, lalu kembali ke bahasa permanen: penghasilan, perlindungan, algoritma, suspend, keselamatan, pembagian nilai, posisi mitra, kepemilikan platform.
+
+Nomor pasal tidak boleh dijadikan fondasi konten. Detail teknis UU bisa berubah. Bahasa normatif bertahan lebih lama.
+
+### 2.14 Rambu Tuntutan
+
+Tuntutan kampanye berbentuk standar normatif, bukan dukungan atau penolakan terhadap pihak tertentu.
+
+- Jangan: "Dukung UU."
+- Jangan: "Tolak UU."
+- Gunakan: "Standar apa yang harus diwujudkan."
+
+Tuntutan dikumpulkan di K15, tetapi muncul secara alami di K5, K6, K7, K8, K9, K11.
+
+Tuntutan tidak boleh tersebar berlebihan di semua konten. Setiap konten boleh menyisipkan satu tuntutan yang relevan dengan isu yang sedang dibahas. Tuntutan tidak boleh terasa dipaksakan. Ia harus muncul sebagai konsekuensi alami dari pertanyaan yang sudah dibangun.
+
 ---
 
 ## Bagian 3 — Peta Perjalanan 15 Kampanye
@@ -168,6 +224,14 @@ Angka tidak boleh disajikan seolah-olah merupakan tarif resmi, skema pembayaran 
 | 14 | K14 | Alternatif Juga Harus Menjawab Masalah Nyata | VI | Uji realitas | Uji Realitas |
 | 15 | K15 | Menguji Konsep Platform Gotong Royong di Dunia Nyata | VI | Uji realitas | Uji Realitas |
 
+### 3.3 Catatan Jantung Kampanye
+
+Babak III (K7–K9) adalah jantung kampanye. Di sinilah mekanisme sistem dibongkar paling dalam. K9 adalah konten terkuat untuk menyuarakan hak atas informasi dan hak atas sistem yang dapat diketahui.
+
+Babak IV (K10–K12) membongkar ekonomi platform. Di sinilah muncul pertanyaan tentang biaya perlindungan dan pembagian nilai.
+
+Babak VI (K14–K15) adalah tempat tuntutan dikumpulkan. K15 memuat seluruh tuntutan dan tiga hak dasar.
+
 ---
 
 ## Bagian 4 — Status PGR: Disclaimer Wajib
@@ -176,6 +240,8 @@ PGR adalah draft konsep. Bukan platform yang sudah berjalan. Bukan produk. Bukan
 
 PGR dinyatakan bukan sebagai jawaban, dan bukan sebagai konsekuensi logis yang tak terhindarkan. PGR adalah salah satu gagasan alternatif yang muncul dari pertanyaan-pertanyaan kampanye. Ia layak diuji, bukan diyakini.
 
+PGR juga bukan pengganti UU. UU menetapkan perlindungan. PGR mempertanyakan bentuk hubungan ekonomi. Dua hal yang berbeda, dan tidak saling menggantikan.
+
 Disclaimer yang dipakai di naskah K13–K15 cukup berupa frasa: **"draft konsep"**. Tidak perlu menyebut versi, fase, badan hukum, atau dana.
 
 Kalimat yang perlu dihindari di K13–K15:
@@ -183,12 +249,15 @@ Kalimat yang perlu dihindari di K13–K15:
 - "PGR adalah konsekuensi logis."
 - "Hanya satu cara."
 - "Ini jawabannya."
+- "PGR lebih baik daripada UU."
+- "PGR akan menggantikan platform yang ada."
 
 Kalimat yang dianjurkan:
 
 - "Ini salah satu gagasan yang bisa diuji."
 - "Ini salah satu desain yang mungkin."
 - "Ini baru di atas kertas. Baru draft. Belum berjalan."
+- "UU menetapkan perlindungan. PGR mencoba mempertanyakan bentuk hubungan ekonominya."
 
 ---
 
@@ -214,6 +283,15 @@ Tabel ini untuk mencegah istilah teknis masuk ke naskah kampanye. Gunakan padana
 | Fleet partner | Vendor sewa kendaraan |
 | Surplus | (Hindari) |
 | SHU | (Hindari) |
+| Hak algoritmik | Hak untuk tahu cara sistem bekerja |
+| Transparansi algoritma | Keterbukaan mekanisme |
+| Audit algoritma | Pemeriksaan mekanisme |
+| Kedaulatan data | Hak atas informasi |
+| Perlindungan pekerja platform | Perlindungan orang yang bekerja lewat aplikasi |
+| Jaminan sosial | Perlindungan saat sakit, kecelakaan, atau hari tua |
+| Penghasilan wajar | Uang yang cukup untuk hidup |
+| Mekanisme keberatan | Cara mempertanyakan keputusan |
+| Pemeriksaan manusia | Ditinjau ulang oleh orang, bukan sistem |
 
 Daftar ini bisa bertambah. Jika menemukan istilah baru yang berpotensi melebar, tambahkan ke tabel ini.
 
@@ -225,7 +303,7 @@ Daftar ini bisa bertambah. Jika menemukan istilah baru yang berpotensi melebar, 
 
 - Setiap file kampanye boleh dikerjakan oleh orang berbeda.
 - Keseragaman struktur wajib. Perbedaan gaya boleh.
-- Setiap perubahan pada naskah harus melewati pemeriksaan rambu (Bagian 2.2, 2.3, 2.4, 2.10).
+- Setiap perubahan pada naskah harus melewati pemeriksaan rambu (Bagian 2.2, 2.3, 2.4, 2.10, 2.13, 2.14).
 
 ### 6.2 Penggunaan AI
 
@@ -234,6 +312,8 @@ Daftar ini bisa bertambah. Jika menemukan istilah baru yang berpotensi melebar, 
 - Setiap angka, tahun, atau peristiwa historis yang disebut AI harus diverifikasi ke sumber primer.
 - AI tidak boleh menyebut nama perusahaan dalam naskah kampanye.
 - AI tidak boleh mengubah status angka ilustratif menjadi klaim faktual.
+- AI tidak boleh menyebut nomor pasal UU sebagai fondasi klaim.
+- AI tidak boleh mengubah tuntutan normatif menjadi dukungan atau penolakan terhadap pihak tertentu.
 
 ---
 
