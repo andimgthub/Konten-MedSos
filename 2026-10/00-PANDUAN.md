@@ -1,6 +1,6 @@
 # PANDUAN — KAMPANYE OKTOBER 2026
 
-**Versi:** 1.2  
+**Versi:** 1.3  
 **Status:** Ready for Scripting  
 **Lisensi:** CC0 1.0 Universal  
 
@@ -117,13 +117,13 @@ Pengalaman adalah pintu masuk. Mekanisme adalah yang dibongkar. Verifikasi adala
 
 Di Babak III (K7–K9), setiap episode menampilkan tiga sisi: konsumen, mitra, dan platform. Penjelasan mekanisme diambil dari sisi platform komersial, tanpa judgement. Setiap episode diakhiri dengan pertanyaan yang mengarah ke alternatif.
 
-Di Babak IV (K10–K12), muncul sisi keempat: vendor/partner sebagai pihak yang tidak selalu terlihat di layar. Vendor bukan sumber pemasukan platform. Vendor adalah pihak lain di ekosistem yang hubungannya dengan mitra dan platform ikut membentuk alur uang dan risiko.
+Di Babak IV (K10–K12), muncul sisi keempat: vendor/partner sebagai pihak yang tidak selalu terlihat di layar. Vendor bukan sekadar pihak pasif. Ia punya kepentingan ekonomi: kendaraan, sewa, dan kelangsungan mitranya. Dalam model yang digambarkan, vendor tidak selalu muncul sebagai sumber pemasukan platform. Namun kerja sama platform–vendor bisa menambah aliran pendapatan dan menciptakan potensi konflik kepentingan. Karena itu, vendor boleh dan harus punya suara di Babak IV — tetapi suaranya adalah suara pihak ekonomi, bukan suara yang menuduh distribusi order tidak adil. Konflik distribusi order disemaikan di K12 sebagai pertanyaan yang menggantung, lalu dibongkar di K13 sebagai konflik.
 
 ### 2.9 Metafora "Piring"
 
 Metafora "piring" dipakai untuk menggambarkan sumber pemasukan platform. Metafora ini mulai dipakai di K11, saat sumber pendapatan sudah lebih dari satu. Di K10, metafora ini belum dipakai karena sumber masih satu.
 
-Di K12, metafora "piring" tidak lagi dipakai untuk menambah piring baru. K12 justru memperlihatkan bahwa piring platform bukan seluruh meja. Vendor bukan piring ketiga. Vendor adalah pihak lain di ekosistem yang tidak muncul di layar, tapi ikut menentukan akses dan risiko.
+Di K12, metafora "piring" tidak lagi dipakai untuk menambah piring baru secara sembarangan. K12 justru memperlihatkan bahwa piring platform bukan seluruh meja. Meja lebih besar dari dua piring: ada transaksi langsung konsumen–driver, transaksi konsumen–merchant–driver, dan transaksi yang melibatkan vendor. Kalau vendor menghasilkan pendapatan bagi platform melalui kerja sama, sebut sebagai "aliran dari kerja sama", bukan otomatis "piring ketiga". Vendor tetap divisualisasikan sebagai pihak di sisi meja, bukan sebagai wadah baru. K12 berhenti pada pertanyaan tentang siapa yang menanggung risiko ketika salah satu aliran macet. K12 tidak menyelidiki apakah distribusi order netral. Itu wilayah K13.
 
 ### 2.10 Rambu Angka Ilustratif
 
@@ -185,9 +185,30 @@ Tuntutan kampanye berbentuk standar normatif, bukan dukungan atau penolakan terh
 - Jangan: "Tolak UU."
 - Gunakan: "Standar apa yang harus diwujudkan."
 
-Tuntutan dikumpulkan di K15, tetapi muncul secara alami di K5, K6, K7, K8, K9, K11.
+Tuntutan dikumpulkan di K15, tetapi muncul secara alami di K5, K6, K7, K8, K9, K11, dan K12.
 
 Tuntutan tidak boleh tersebar berlebihan di semua konten. Setiap konten boleh menyisipkan satu tuntutan yang relevan dengan isu yang sedang dibahas. Tuntutan tidak boleh terasa dipaksakan. Ia harus muncul sebagai konsekuensi alami dari pertanyaan yang sudah dibangun.
+
+### 2.15 Rambu Pengulangan & Referensi
+
+Setiap file kampanye berdiri sendiri. Topik yang sama boleh muncul di lebih dari satu kampanye. Pengulangan adalah penegasan, bukan kesalahan.
+
+Yang membedakan setiap kampanye adalah fokus pembahasannya, bukan ada-tidaknya topik. Misalnya, distribusi order bisa muncul di K12 sebagai pertanyaan yang menggantung, dan di K13 sebagai konflik yang dibongkar. Keduanya membahas hal yang sama dari sudut yang berbeda. K12 berhenti pada pertanyaan. K13 yang menyelidiki.
+
+Namun, naskah tidak boleh merujuk kampanye lain secara eksplisit. Hindari:
+
+- "Sudah dibahas di K11."
+- "Lihat K13 untuk penjelasan lebih lanjut."
+- "Seperti yang kita lihat di episode sebelumnya."
+- "Ini akan dijawab di kampanye berikutnya."
+
+Gunakan:
+
+- "Seperti yang sudah kita lihat."
+- "Pertanyaan ini akan kita bawa lebih jauh."
+- "Ada sisi lain yang belum kita lihat."
+
+Referensi internal antar-kampanye hanya boleh berupa pengulangan konteks dan penegasan prinsip, bukan penunjukan episode.
 
 ---
 
@@ -219,7 +240,7 @@ Tuntutan tidak boleh tersebar berlebihan di semua konten. Setiap konten boleh me
 | 09 | K9 | Siapa yang Melihat Informasinya? | III | Transparansi | Tidak Ada |
 | 10 | K10 | Dulu Sumber Pendapatan Hanya Satu | IV | Sumber pertama: biaya layanan konsumen | Tidak Ada |
 | 11 | K11 | Sekarang Ada Dua Piring | IV | Sumber kedua: komisi mitra | Tidak Ada |
-| 12 | K12 | Tunggu. Ada Meja yang Lebih Besar | IV | Vendor: pihak lain di ekosistem | Tidak Ada |
+| 12 | K12 | Tunggu. Ada Meja yang Lebih Besar | IV | Meja pendapatan platform: transaksi langsung, merchant, dan kerja sama vendor | Tidak Ada |
 | 13 | K13 | Kalau Mekanismenya Dibalik? | V | Konflik dan alternatif / PGR | Diperkenalkan |
 | 14 | K14 | Alternatif Juga Harus Menjawab Masalah Nyata | VI | Uji realitas | Uji Realitas |
 | 15 | K15 | Menguji Konsep Platform Gotong Royong di Dunia Nyata | VI | Uji realitas | Uji Realitas |
@@ -228,7 +249,7 @@ Tuntutan tidak boleh tersebar berlebihan di semua konten. Setiap konten boleh me
 
 Babak III (K7–K9) adalah jantung kampanye. Di sinilah mekanisme sistem dibongkar paling dalam. K9 adalah konten terkuat untuk menyuarakan hak atas informasi dan hak atas sistem yang dapat diketahui.
 
-Babak IV (K10–K12) membongkar ekonomi platform. Di sinilah muncul pertanyaan tentang biaya perlindungan dan pembagian nilai.
+Babak IV (K10–K12) membongkar ekonomi platform. Di sinilah muncul pertanyaan tentang biaya perlindungan dan pembagian nilai. K12 menutup babak ini dengan memperluas peta uang: meja lebih besar dari dua piring, karena ada transaksi merchant dan kerja sama vendor yang menciptakan aliran pendapatan dan potensi konflik kepentingan. K12 berhenti pada pertanyaan tentang risiko. K13 yang membongkar konflik.
 
 Babak VI (K14–K15) adalah tempat tuntutan dikumpulkan. K15 memuat seluruh tuntutan dan tiga hak dasar.
 
@@ -303,7 +324,7 @@ Daftar ini bisa bertambah. Jika menemukan istilah baru yang berpotensi melebar, 
 
 - Setiap file kampanye boleh dikerjakan oleh orang berbeda.
 - Keseragaman struktur wajib. Perbedaan gaya boleh.
-- Setiap perubahan pada naskah harus melewati pemeriksaan rambu (Bagian 2.2, 2.3, 2.4, 2.10, 2.13, 2.14).
+- Setiap perubahan pada naskah harus melewati pemeriksaan rambu (Bagian 2.2, 2.3, 2.4, 2.10, 2.13, 2.14, 2.15).
 
 ### 6.2 Penggunaan AI
 
@@ -314,6 +335,7 @@ Daftar ini bisa bertambah. Jika menemukan istilah baru yang berpotensi melebar, 
 - AI tidak boleh mengubah status angka ilustratif menjadi klaim faktual.
 - AI tidak boleh menyebut nomor pasal UU sebagai fondasi klaim.
 - AI tidak boleh mengubah tuntutan normatif menjadi dukungan atau penolakan terhadap pihak tertentu.
+- AI tidak boleh menyisipkan rujukan eksplisit antar-kampanye ("sudah dibahas di K11", "lihat K13").
 
 ---
 
