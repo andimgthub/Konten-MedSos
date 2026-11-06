@@ -47,6 +47,23 @@
         { "id": "261014", "path": "2026-10/14-K14.md", "title": "K14 — Alternatif Juga Harus Menjawab Masalah Nyata" },
         { "id": "261015", "path": "2026-10/15-K15.md", "title": "K15 — Menguji Konsep Platform Gotong Royong di Dunia Nyata" }
       ]
+    },
+    {
+      "id": "202611",
+      "name": "November 2026",
+      "files": [
+        { "id": "261100", "path": "2026-11/00-PANDUAN.md", "title": "Panduan Kampanye November 2026" },
+        { "id": "261101", "path": "2026-11/01-K1.md", "title": "K1" },
+        { "id": "261102", "path": "2026-11/02-K2.md", "title": "K2" },
+        { "id": "261103", "path": "2026-11/03-K3.md", "title": "K3" },
+        { "id": "261104", "path": "2026-11/04-K4.md", "title": "K4" },
+        { "id": "261105", "path": "2026-11/05-K5.md", "title": "K5" },
+        { "id": "261106", "path": "2026-11/06-K6.md", "title": "K6" },
+        { "id": "261107", "path": "2026-11/07-K7.md", "title": "K7" },
+        { "id": "261108", "path": "2026-11/08-K8.md", "title": "K8" },
+        { "id": "261109", "path": "2026-11/09-K9.md", "title": "K9" },
+        { "id": "261110", "path": "2026-11/10-K10.md", "title": "K10" }
+      ]
     }
   ]
 }
